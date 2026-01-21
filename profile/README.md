@@ -30,5 +30,5 @@ Software products are built with a focus on affordability, practicality, and lon
 
 ## Learn More
 
-- [Company Website](https://casiouone.com.au)  
+- [Company Website](https://www.casiouone.com.au)  
 - [LinkedIn](https://www.linkedin.com/company/casiouone)
