@@ -1,4 +1,4 @@
-![Casiou One Logo](https://casiouone.com.au/images/logo.png)
+![Casiou One Logo](logo.png)
 
 # Casiou One
 
