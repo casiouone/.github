@@ -16,7 +16,7 @@ Software products are built with a focus on affordability, practicality, and lon
 
 **Affordable business management software** designed to support growing organisations with practical tools and scalable foundations.
 
-[Visit product site →](https://bizplex.com.au)
+[Visit product site →](https://www.bizplex.com.au)
 
 ---
 
