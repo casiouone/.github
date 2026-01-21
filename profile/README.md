@@ -2,19 +2,19 @@
 
 # Casiou One
 
-Building affordable, practical software to help businesses operate efficiently and grow.
+Building cost-effective, practical software to help businesses operate efficiently and grow.
 
 Casiou One designs and develops software platforms that balance clarity, usability, and scalability, making modern business tools accessible to organisations of all sizes.
 
 ## Products
 
-Software products are built with a focus on affordability, practicality, and long-term scalability for growing businesses.
+Software products are built with a focus on cost-effectiveness, practicality, and long-term scalability for growing businesses.
 
 ---
 
 ### Bizplex
 
-**Affordable business management software** designed to support growing organisations with practical tools and scalable foundations.
+**Cost-effective business management software** designed to support growing organisations with practical tools and scalable foundations.
 
 [Visit product site →](https://www.bizplex.com.au)
 
@@ -22,9 +22,9 @@ Software products are built with a focus on affordability, practicality, and lon
 
 ### Ingenii-Fin
 
-**Affordable software for sanctions screening and AML/CTF compliance**, designed to help businesses meet regulatory obligations efficiently and reliably.
+**Cost-effective software for sanctions screening and AML/CTF compliance**, designed to help businesses meet regulatory obligations efficiently and reliably.
 
-[Visit product site →](https://ingenii-fin.com.au)
+[Visit product site →](https://www.ingenii-fin.com.au)
 
 ---
 
